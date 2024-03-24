@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+admin.chinesetest.cn	TRUE	/	FALSE	1999999999	JSESSIONID	9F64608F7698ABAF5FA2378A727C79D3
+
